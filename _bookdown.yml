@@ -1,0 +1,7 @@
+book_filename: "化学实验设计与数据处理"  # 生成的电子书文件名
+output_dir: "docs"        # 输出目录，便于GitHub Pages部署
+
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "

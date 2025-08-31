@@ -1,0 +1,55 @@
+--- 
+title: "化学实验设计与数据处理"
+author: "夏冬辉"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: https://github.org/cmsnut/clinical_modeling
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  化学实验设计与数据处理.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# 实验设计
+
+## 概述
+
+## 单因素设计
+
+
+## 正交设计
+
+
+## 均匀设计
+
+
+## 响应面设计
+
+
+
+
+
+# 数据处理：基础
+## 数据处理的主题与基本流程
+
+## 数据处理过程和结果的图表展示
+
+## 数据处理的软件与代码
+
+# 数据处理: 进阶
+## 常见二维图绘制
+
+## 常见三维图绘制
+
+
+# 课程实践
+## 实践报告
+
+## 实验设计与分析实践
+
+## 光谱数据分析实践
+
+
